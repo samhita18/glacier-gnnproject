@@ -33,8 +33,7 @@ Submitted: June 2025
 Developed as part of an AI/ML research project (2nd year, VIT Chennai)
 
 ## Author
-Hari Samhita Pasupuleti 
-
+Hari Samhita Pasupuleti
 B.Tech Computer Science and Engineering (AI/ML)  
 VIT Chennai  
 [GitHub Profile](https://github.com/samhita18)  
