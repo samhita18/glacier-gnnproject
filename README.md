@@ -19,7 +19,7 @@ You can view the full implementation, model architecture, experiments, and resul
 | **Component**      | **Tools & Libraries**                                                                        |
 | ------------------ | -------------------------------------------------------------------------------------------- |
 | Model              | ResNet50 (CNN) for spatial feature extraction + GraphSAGE (GNN) for spatio-temporal analysis |
-| Framework          | PyTorch, PyTorch Geometric, NetworkX                                                         |
+| Framework          | PyTorch, PyTorch Geometric                                                                   |
 | Platform           | Google Colab (Python environment for development and training)                               |
 | Image Handling     | OpenCV (for image/frame processing)                                                          |
 | Visualization      | Matplotlib (for plotting graphs and visual comparisons)                                      |
@@ -34,6 +34,7 @@ Developed as part of an AI/ML research project (2nd year, VIT Chennai)
 
 ## Author
 Hari Samhita Pasupuleti 
+
 B.Tech Computer Science and Engineering (AI/ML)  
 VIT Chennai  
 [GitHub Profile](https://github.com/samhita18)  
