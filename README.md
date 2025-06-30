@@ -42,7 +42,4 @@ VIT Chennai
 hari.samhita18@gmail.com
 
 
-> This repository demonstrates the use of deep learning and graph-based modeling for climate-impact research, making it a great addition to AI-for-Earth or sustainability portfolios.
-
-
-
+> This repository demonstrates the use of deep learning and graph-based modeling for climate-impact research
