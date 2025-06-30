@@ -5,11 +5,12 @@ The model analyzes satellite image sequences (GIFs) to detect and estimate visua
 
 ## Key Highlights
 
-Estimation based on visual pixel-level changes
-**CNN (ResNet50)** for frame-wise spatial feature extraction
-**GraphSAGE-based GNN** for capturing temporal and spatial dependencies across frames
-Input: Satellite time-lapse GIFs of Himalayan glaciers
-Output: Melt prediction graph based on observed visual changes
+-Achieved **77% accuracy** in predicting glacier melt based on satellite image sequence
+-Estimation based on visual pixel-level changes
+-**CNN (ResNet50)** for frame-wise spatial feature extraction
+-**GraphSAGE-based GNN** for capturing temporal and spatial dependencies across frames
+-Input: Satellite time-lapse GIFs of Himalayan glaciers
+-Output: Melt prediction graph based on observed visual changes
 
 You can view the full implementation, model architecture, experiments, and results in the report
 [`projectgnn.pdf`](projectgnn.pdf)
